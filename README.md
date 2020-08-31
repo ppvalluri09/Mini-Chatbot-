@@ -8,3 +8,7 @@ Download the trained model from (https://drive.google.com/file/d/1RjTdjMgSQr3wEy
 ```console
 foo@bar:~$ python3 infer.py
 ```
+
+### Improvements
+
+If the a bigger dataset was available, the model could perform much better... 
